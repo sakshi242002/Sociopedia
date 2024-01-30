@@ -1,7 +1,7 @@
 # Sociopedia
 ## Setting up this project
 ## BACKEND 
-Backend - Node.js with express
+Backend - Node.js with Express
 - Make sure you have Node.js installed. If not, download and install it from [https://nodejs.org/](https://nodejs.org/).
 - Navigate to the `server` folder: `cd server`
 - Install Node dependencies by running: `npm install`.
