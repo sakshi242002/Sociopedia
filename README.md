@@ -1,8 +1,9 @@
 # Sociopedia
 ## Setting up this project
-## BACKEND  - Node.js with express
+## BACKEND 
+Backend - Node.js with express
 - Make sure you have Node.js installed. If not, download and install it from [https://nodejs.org/](https://nodejs.org/).
-- Navigate to the `server` folder.
+- Navigate to the `server` folder: `cd server`
 - Install Node dependencies by running: `npm install`.
 - Create a `.env` file in the `server` folder with your configuration details (e.g., MongoDB URI, JWT secret).
 - To start the Node.js server, run: `npm start` or `node index.js`.
