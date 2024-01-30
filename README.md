@@ -1,4 +1,5 @@
 # Sociopedia
+Welcome to Sociopedia, a web application built using Node.js, React, and MongoDB database with authentication.
 ## Setting up this project
 ## BACKEND 
 Backend - Node.js with Express
