@@ -6,4 +6,4 @@ server/node_modules/
 server/public/assets
 
 # env
-.env
+server/.env
