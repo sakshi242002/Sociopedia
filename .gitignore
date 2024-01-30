@@ -1,0 +1,6 @@
+# Node.js
+client/node_modules/
+server/node_modules/
+
+# assets 
+server/public/assets
