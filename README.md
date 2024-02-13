@@ -1,5 +1,5 @@
 # Sociopedia
-Welcome to Sociopedia, a web application built using Node.js, React, and MongoDB database with authentication.
+Welcome to Sociopedia, a web application built using Node.js, React, and MongoDB database designed for social networking with authentication. This web application allows users to post content and have meaningful interactions by adding each other as friends. Users can explore each other's posts and engage with them through likes and comments. Additionally, Sociopedia offers a customizable viewing experience with the option to toggle between light and dark mode and is designed to be fully responsive, ensuring seamless access across all screen sizes.
 ## Setting up this project
 ## BACKEND 
 Backend - Node.js with Express
